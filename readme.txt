@@ -1,0 +1,1 @@
+esta aplicacion permitira al usuario comunicarse en tiempo real a traves de un chat basado en js
